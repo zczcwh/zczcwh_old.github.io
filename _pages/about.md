@@ -24,5 +24,3 @@ redirect_from:
   <li> <b>[Aug. 2019]</b> I graduated with my Master degree from Tufts University.</li>
  
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=a&t=n&d=i6Cg2uwoVYtktTxLJzeGkQjg7ICgXupw_nf4-TfxTF4&co=ffffff'></script>
