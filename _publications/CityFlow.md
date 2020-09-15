@@ -1,7 +1,7 @@
 ---
 title: "LodoNet: A Deep Neural Network with 2D Keypoint Matching for 3D LiDAR Odometry Estimation"
 collection: publications
-permalink: /publication/CityFlow
+permalink: /publication/LodoNet
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2020-08-28
 venue: "ACM Multimedia 2020"
