@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Zheng (Thomas) Tang"
+title                    : "Ce Zheng"
 title_separator          : "-"
-name                     : &name "Dr. Zheng (Thomas) Tang"
-description              : &description "Research Scientist at Amazon"
-url                      : https://zhengthomastang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ce Zheng"
+description              : &description "PhD student at The University of North Carolina at Charlotte"
+url                      : https://CeZheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhengthomastang.github.io"
+repository               : "CeZheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -37,6 +37,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
+  
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
@@ -80,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Zheng (Thomas) Tang"
+  name             : "Ce Zheng"
   avatar           : "profile.jpg"
-  bio              : "Research Scientist at Amazon, expert in computer vision and machine learning"
-  location         : "Seattle, Washington"
+  bio              : "Ph.D. student at The University of North Carolina at Charlotte, interested in computer vision and deep learning"
+  location         : "Charlotte, North Carolina"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=zXP1CZwAAAAJ&hl=en"
-  email            : "tangzhengthomas@gmail.com"
+  googlescholar    : 
+  email            : "czheng6@uncc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhengthomastang"
+  github           : "zczcwh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # example: "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhengthomastang"
-  orcid            : "http://orcid.org/0000-0002-3744-2254"
+  linkedin         : "ce-zheng-234a98119"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # example: "http://stackoverflow.com/users/123456/username"
