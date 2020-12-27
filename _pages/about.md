@@ -15,7 +15,7 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Sep. 2020]</b> My first-authored paper titled "Deep Learning-Based Human Pose Estimation: A Survey" released on arXiv. </li>
+  <li> <b>[Dec. 2020]</b> My first-authored paper titled "Deep Learning-Based Human Pose Estimation: A Survey" released on arXiv. </li>
   
   <li> <b>[Sep. 2020]</b> I join the Machine Vision Lab of University of North Carolina at Charlotte.</li>
 
