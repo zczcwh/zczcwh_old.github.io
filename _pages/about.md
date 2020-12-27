@@ -15,6 +15,8 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Sep. 2020]</b> My first-authored paper titled "Deep Learning-Based Human Pose Estimation: A Survey" released on arXiv. </li>
+  
   <li> <b>[Sep. 2020]</b> I join the Machine Vision Lab of University of North Carolina at Charlotte.</li>
 
   <li> <b>[Jul. 2020]</b> My first-authored paper titled "LodoNet: A Deep Neural Network with 2D Keypoint Matching for 3D LiDAR Odometry Estimation" was accepted to ACM Multimedia 2020.</li>
