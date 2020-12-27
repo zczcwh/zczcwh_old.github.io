@@ -5,7 +5,7 @@ permalink: /publication/LodoNet
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2020-12-24
 paperurl: https://arxiv.org/pdf/2012.13392.pdf"
-citation: 'Ce Zheng∗, Wenhan Wu∗, Taojiannan Yang, Sijie Zhu, Chen Chen, Ruixu Liu, Ju Shen, Nasser Kehtarnavaz, Mubarak Shah. "Deep Learning-Based Human Pose Estimation: A Survey". '
+citation: '<b>Ce Zheng</b>∗, Wenhan Wu∗, Taojiannan Yang, Sijie Zhu, Chen Chen, Ruixu Liu, Ju Shen, Nasser Kehtarnavaz, Mubarak Shah. "Deep Learning-Based Human Pose Estimation: A Survey". '
 ---
 # Deep Learning-Based Human Pose Estimation: A Survey
 
