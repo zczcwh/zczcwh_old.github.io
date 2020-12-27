@@ -12,7 +12,8 @@ author_profile: true
 <p>
 <a href="http://zczcwh.github.io/publications/HPEsurvey"></a>
 <b><a href="http://zczcwh.github.io/publications/LodoNet"> Deep Learning-Based Human Pose Estimation: A Survey</a></b><br>
-<b>Ce Zheng</b>∗, Wenhan Wu∗, Taojiannan Yang, Sijie Zhu, Chen Chen, Ruixu Liu, Ju Shen, Nasser Kehtarnavaz, Mubarak Shah. on <b>arXiv</b>.<br>
+<b>Ce Zheng</b>∗, Wenhan Wu∗, Taojiannan Yang, Sijie Zhu, Chen Chen, Ruixu Liu, Ju Shen, Nasser Kehtarnavaz, Mubarak Shah. 
+ on <b>arXiv</b>.<br>
 [<a href="https://arxiv.org/pdf/2012.13392.pdf">Paper</a>]
 <br clear="left">
 </p>
@@ -22,7 +23,8 @@ author_profile: true
 <p>
 <a href="http://zczcwh.github.io/publications/LodoNet"></a>
 <b><a href="http://zczcwh.github.io/publications/LodoNet"> LodoNet: A Deep Neural Network with 2D Keypoint Matchingfor 3D LiDAR Odometry Estimation</a></b><br>
-<b>Ce Zheng</b>, Yecheng lyu, Ming Li, Ziming Zhang. <b>ACM Multimedia 2020</b>.<br>
+<b>Ce Zheng</b>, Yecheng lyu, Ming Li, Ziming Zhang. 
+  <b>ACM Multimedia 2020</b>.<br>
 [<a href="https://arxiv.org/abs/2009.00164">Paper</a>]
 <br clear="left">
 </p>
