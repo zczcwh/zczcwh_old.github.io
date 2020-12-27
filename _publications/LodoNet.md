@@ -31,9 +31,9 @@ evaluated in the KITTI odometry estimation benchmark, achieving
 on par with or even better results than the state-of-the-art.
 
 ## Citation
-@article{zheng2020lodonet,
-  title={LodoNet: A Deep Neural Network with 2D Keypoint Matchingfor 3D LiDAR Odometry Estimation},
-  author={Zheng, Ce and Lyu, Yecheng and Li, Ming and Zhang, Ziming},
-  journal={arXiv preprint arXiv:2009.00164},
-  year={2020}
-}
+    @article{zheng2020lodonet,
+      title={LodoNet: A Deep Neural Network with 2D Keypoint Matchingfor 3D LiDAR Odometry Estimation},
+      author={Zheng, Ce and Lyu, Yecheng and Li, Ming and Zhang, Ziming},
+      journal={arXiv preprint arXiv:2009.00164},
+      year={2020}
+    }
