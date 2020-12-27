@@ -26,11 +26,11 @@ popular datasets are summarized and discussed. Finally, the challenges involved,
 concluded. We also provide a regularly updated project page on: https://github.com/zczcwh/DL-HPE
 
 ## Citation
-   @misc{zheng2020deep,
-    title={Deep Learning-Based Human Pose Estimation: A Survey}, 
-    author={Ce Zheng and Wenhan Wu and Taojiannan Yang and Sijie Zhu and Chen Chen and Ruixu Liu and Ju Shen and Nasser Kehtarnavaz and Mubarak Shah},
-    year={2020},
-    eprint={2012.13392},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-   }
+      @misc{zheng2020deep,
+       title={Deep Learning-Based Human Pose Estimation: A Survey}, 
+       author={Ce Zheng and Wenhan Wu and Taojiannan Yang and Sijie Zhu and Chen Chen and Ruixu Liu and Ju Shen and Nasser Kehtarnavaz and Mubarak Shah},
+       year={2020},
+       eprint={2012.13392},
+       archivePrefix={arXiv},
+       primaryClass={cs.CV}
+      }
