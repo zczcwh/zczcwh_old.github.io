@@ -21,7 +21,7 @@ redirect_from:
 
   <li> <b>[Jul. 2020]</b> My first-authored paper titled "LodoNet: A Deep Neural Network with 2D Keypoint Matching for 3D LiDAR Odometry Estimation" was accepted to ACM Multimedia 2020.</li>
 
-  <li> <b>[Oct. 2019 to May. 2020]</b> I visit the VISLab at Worcester Polytechnic Institute (WPI), advised by Prof. Ziming Zhang. </li>
+  <li> <b>[Oct. 2019 to May. 2020]</b> </li> I visit the VISLab at Worcester Polytechnic Institute (WPI), advised by Prof.  [Prof. Ziming Zhang](https://zhang-vislab.github.io/). 
   
   <li> <b>[Aug. 2019]</b> I graduated with my Master degree from Tufts University.</li>
  
