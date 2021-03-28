@@ -3,7 +3,7 @@ title: "3D Human Pose Estimation with Spatial and Temporal Transformers"
 collection: publications
 permalink: /publication/PoseFormer
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
-date: 2020-03-18
+date: 2021-03-18
 venue: "arxiv 2021"
 paperurl: https://arxiv.org/pdf/2103.10455.pdf"
 
