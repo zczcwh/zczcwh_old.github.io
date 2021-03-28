@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning-Based Human Pose Estimation: A Survey"
 collection: publications
-permalink: /publication/LodoNet
+permalink: /publication/HPESurvey
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2020-12-24
 paperurl: https://arxiv.org/pdf/2012.13392.pdf"
