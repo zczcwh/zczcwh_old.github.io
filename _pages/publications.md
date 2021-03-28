@@ -21,7 +21,7 @@ author_profile: true
 
 <p>
 <a href="http://zczcwh.github.io/publications/HPEsurvey"></a>
-<b><a href="http://zczcwh.github.io/publications/LodoNet"> Deep Learning-Based Human Pose Estimation: A Survey</a></b><br>
+<b><a href="http://zczcwh.github.io/publications/HPEsurvey"> Deep Learning-Based Human Pose Estimation: A Survey</a></b><br>
 <b>Ce Zheng</b>∗, Wenhan Wu∗, Taojiannan Yang, Sijie Zhu, Chen Chen, Ruixu Liu, Ju Shen, Nasser Kehtarnavaz, Mubarak Shah. 
  on <b>arXiv</b>.<br>
 [<a href="https://arxiv.org/pdf/2012.13392.pdf">Paper</a>]
