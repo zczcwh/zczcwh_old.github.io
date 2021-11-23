@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ce Zheng"
 title_separator          : "-"
 name                     : &name "Ce Zheng"
-description              : &description "Ph.D. student at The University of North Carolina at Charlotte"
+description              : &description "Ph.D. student at The University of Central Florida"
 url                      : https://zczcwh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zczcwh.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Ce Zheng"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student at The University of North Carolina at Charlotte, interested in computer vision and deep learning"
-  location         : "Charlotte, North Carolina"
+  bio              : "Ph.D. student at The University of Central Florida, interested in computer vision and deep learning"
+  location         : "Orlando, Florida"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YFKLC58AAAAJ&hl=en&oi=sra"
-  email            : "czheng6@uncc.edu"
+  email            : "cezheng@knights.ucf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
