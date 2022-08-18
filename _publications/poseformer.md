@@ -3,15 +3,15 @@ title: "3D Human Pose Estimation with Spatial and Temporal Transformers"
 collection: publications
 permalink: /publication/PoseFormer
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
-date: 2021-03-18
-venue: "arxiv 2021"
-paperurl: https://arxiv.org/pdf/2103.10455.pdf"
+date: 2021-10-24
+venue: "ICCV 2021"
+paperurl: https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_3D_Human_Pose_Estimation_With_Spatial_and_Temporal_Transformers_ICCV_2021_paper.pdf"
 
 citation: '<b>Ce Zheng</b>, Sijie Zhu, Matias Mendieta, Taojiannan Yang, Chen Chen, Zhengming Ding. "3D Human Pose Estimation with Spatial and Temporal Transformers". <i>(Arxiv 2021)</i>. '
 ---
 # 3D Human Pose Estimation with Spatial and Temporal Transformers
 
-[<a href="https://arxiv.org/pdf/2103.10455.pdf">Paper</a>]
+[<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_3D_Human_Pose_Estimation_With_Spatial_and_Temporal_Transformers_ICCV_2021_paper.pdf">Paper</a>]
 
 
 
@@ -22,6 +22,6 @@ Transformer architectures have become the model of choice in natural language pr
     @article{zheng20213d,
       title={3D Human Pose Estimation with Spatial and Temporal Transformers},
       author={Zheng, Ce and Zhu, Sijie and Mendieta, Matias and Yang, Taojiannan and Chen, Chen and Ding, Zhengming},
-      journal={arXiv preprint arXiv:2103.10455},
+      journal={ICCV},
       year={2021}
     }
