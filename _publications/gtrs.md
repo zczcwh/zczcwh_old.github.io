@@ -3,7 +3,7 @@ title: "A Lightweight Graph Transformer Network for Human Mesh Reconstruction fr
 collection: publications
 permalink: /publication/gtrs
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
-date: 2021-07-17
+date: 2022-07-17
 venue: "arxiv 2022"
 paperurl: https://arxiv.org/pdf/2111.12696.pdf"
 
