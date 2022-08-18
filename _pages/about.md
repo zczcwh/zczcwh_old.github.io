@@ -22,8 +22,7 @@ redirect_from:
   
   <li> <b>[Mar. 2022]</b> My first-authored paper titled "POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition" released on <a href="https://arxiv.org/pdf/2204.04083.pdf">arXiv </a>. </li>
   
-  <li> <b>[Otc. 2021]</b> My first-authored paper titled "3D Human Pose Estimation with Spatial and Temporal Transformers" was accepted by <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_3D_Human_Pose_Estimation_With_Spatial_and_Temporal_Transformers_ICCV_2021_paper.pdf">ICCV 2021 </a>. </li>
-  
+  <li> <b>[Otc. 2021]</b> My first-authored paper titled "3D Human Pose Estimation with Spatial and Temporal Transformers" was accepted by <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_3D_Human_Pose_Estimation_With_Spatial_and_Temporal_Transformers_ICCV_2021_paper.pdf">ICCV 2021</a>. </li>
   
   <li> <b>[Aug. 2021]</b> I join the Center for Research in Computer Vision (CRCV) of University of Central Florida.</li>
   
