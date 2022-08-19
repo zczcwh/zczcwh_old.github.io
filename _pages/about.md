@@ -16,7 +16,7 @@ redirect_from:
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[Otc. 2021]</b> My first-authored paper titled "A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose" was accepted by <a href="https://arxiv.org/pdf/2111.12696.pdf">ACM multimedia 2022 </a>. </li>
+  <li> <b>[Jul. 2022]</b> My first-authored paper titled "A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose" was accepted by <a href="https://arxiv.org/pdf/2111.12696.pdf">ACM multimedia 2022 </a>. </li>
   
   <li> <b>[May. 2022]</b> My first-authored paper titled "HeatER: An Efficient and Unified Network for Human Reconstruction via Heatmap-based TransformER" released on <a href="https://arxiv.org/pdf/2205.15448.pdf">arXiv </a>. </li>
   
