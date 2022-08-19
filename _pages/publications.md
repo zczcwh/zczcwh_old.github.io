@@ -24,7 +24,7 @@ author_profile: true
 <a href="http://zczcwh.github.io/publications/gtrs"></a>
 <b><a href="http://zczcwh.github.io/publications/gtrs"> A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose </a></b><br>
 <b>Ce Zheng</b>, Matias Mendieta, Pu Wang, Aidong Lu, Chen Chen.
- on <b>arXiv</b>.<br>
+ on <b>ACM Multimedia 2022</b>.<br>
 [<a href="https://arxiv.org/pdf/2111.12696.pdf">Paper</a>]
 <br clear="left">
 </p>
@@ -33,7 +33,7 @@ author_profile: true
 <a href="http://zczcwh.github.io/publications/poseformer"></a>
 <b><a href="http://zczcwh.github.io/publications/poseformer"> 3D Human Pose Estimation with Spatial and Temporal Transformers </a></b><br>
 <b>Ce Zheng</b>, Sijie Zhu, Matias Mendieta, Taojiannan Yang, Chen Chen, Zhengming Ding.
- on <b>arXiv</b>.<br>
+ on <b>ICCV 2021</b>.<br>
 [<a href="https://arxiv.org/pdf/2103.10455.pdf">Paper</a>]
 <br clear="left">
 </p>
