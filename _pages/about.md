@@ -11,18 +11,18 @@ redirect_from:
 
 * I'm a Ph.D. student at [Center for Research in Computer Vision (CRCV)](https://www.crcv.ucf.edu/) of University of Central Florida (UCF) with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) since Fall 2021. Before joining UCF, I obtained my Master's degree in Department of Electrical & Computer Engineering at Tufts University in Aug 2019, advised by [Prof. Shuchin Aeron](http://www.ece.tufts.edu/~shuchin/) and [Prof. Eric Miller](https://engineering.tufts.edu/people/faculty/eric-miller). I received my Bachelor's Degree in Department of Electrical Engineering at University of Bridgeport in May 2016, advised by [Prof. Xingguo Xiong](https://www.bridgeport.edu/faculty/xingguo-michael-xiong). I also received my Bachelor's Degree in School of Information Science and Engineering at Wuhan University of Science and Technology in June 2016. 
 
-** I'm looking for a postdoc position starting in Jan 2024. I'd appreciate it if you can share the hiring info from the lab with interest in Computer Vision. My email address is: cezheng@knights.ucf.edu **
+**I'm looking for a postdoc position starting in Jan 2024. I'd appreciate it if you can share the hiring info from the lab with interest in Computer Vision. My email address is: cezheng@knights.ucf.edu**
 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[Mar. 2023]</b> My first-authored paper titled "POTTER: Pooling Attention Transformer for Efficient Human Mesh Recovery" was accepted by ** CVPR 2023 **. </li>
+  <li> <b>[Mar. 2023]</b> My first-authored paper titled "POTTER: Pooling Attention Transformer for Efficient Human Mesh Recovery" was accepted by **CVPR 2023**. </li>
   
-  <li> <b>[Mar. 2023]</b> My first-authored paper titled "FeatER: An Efficient Network for Human Reconstruction via Feature Map-Based TransformER" was accepted by ** CVPR 2023 **. </li>
+  <li> <b>[Mar. 2023]</b> My first-authored paper titled "FeatER: An Efficient Network for Human Reconstruction via Feature Map-Based TransformER" was accepted by **CVPR 2023**. </li>
   
-  <li> <b>[Mar. 2023]</b> My second-authored paper titled "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation" was accepted by ** CVPR 2023 **. </li>
+  <li> <b>[Mar. 2023]</b> My second-authored paper titled "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation" was accepted by **CVPR 2023**. </li>
   
   <li> <b>[Jul. 2022]</b> My first-authored paper titled "A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose" was accepted by <a href="https://arxiv.org/pdf/2111.12696.pdf">ACM multimedia 2022 </a>. </li>
   
