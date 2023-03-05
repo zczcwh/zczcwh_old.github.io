@@ -18,11 +18,11 @@ redirect_from:
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[Mar. 2023]</b> My first-authored paper titled "POTTER: Pooling Attention Transformer for Efficient Human Mesh Recovery" was accepted by **CVPR 2023**. </li>
+  <li> <b>[Mar. 2023]</b> My first-authored paper titled "POTTER: Pooling Attention Transformer for Efficient Human Mesh Recovery" was accepted by CVPR 2023. </li>
   
-  <li> <b>[Mar. 2023]</b> My first-authored paper titled "FeatER: An Efficient Network for Human Reconstruction via Feature Map-Based TransformER" was accepted by **CVPR 2023**. </li>
+  <li> <b>[Mar. 2023]</b> My first-authored paper titled "FeatER: An Efficient Network for Human Reconstruction via Feature Map-Based TransformER" was accepted by CVPR 2023. </li>
   
-  <li> <b>[Mar. 2023]</b> My second-authored paper titled "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation" was accepted by **CVPR 2023**. </li>
+  <li> <b>[Mar. 2023]</b> My second-authored paper titled "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation" was accepted by CVPR 2023. </li>
   
   <li> <b>[Jul. 2022]</b> My first-authored paper titled "A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose" was accepted by <a href="https://arxiv.org/pdf/2111.12696.pdf">ACM multimedia 2022 </a>. </li>
   
