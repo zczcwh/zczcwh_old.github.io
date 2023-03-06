@@ -13,6 +13,10 @@ redirect_from:
 
 * **I'm looking for a postdoc position starting in Jan 2024. I'd appreciate it if you can share the hiring info from the lab with interest in Computer Vision. My email address is: cezheng@knights.ucf.edu**
 
+# <i class="fa fa-cog fa-spin fa-fw"></i> Academic Services #
+  * Conference: CVPR, ICCV, ACM Multimedia, ICME...
+  * Journal: T-PAMI, TCSVT, TNNLS, Neurocomputing, Neural Networks...
+
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
@@ -45,8 +49,6 @@ redirect_from:
   <li> <b>[Aug. 2019]</b> I graduated with my Master degree from Tufts University.</li>
  
   
-# <i class="fa fa-cog fa-spin fa-fw"></i> Academic Services #
-  * Conference: CVPR, ICCV, ACM Multimedia, ICME...
-  * Journal: T-PAMI, TCSVT, TNNLS, Neurocomputing, Neural Networks...
+
   
 
